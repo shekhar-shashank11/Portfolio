@@ -9,7 +9,7 @@ function Banner() {
 
     const [loopNum, setLoopNum] = useState(0);
     const [isDeleting, setIsDeleting] = useState(false);
-    const toRotate= ["Frontend Developer", "Web Designer", "Backend Developer"]
+    const toRotate= ["Frontend Developer", "Engineer", "Backend Developer"]
     const [text, setText] = useState('');
     const [delta,setDelta] = useState(300-Math.random()*100);
 
