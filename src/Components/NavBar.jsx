@@ -11,9 +11,9 @@ import logo from '../assets/logo.png'
 function NavBar() {
 
   const socials = {
-    linkedin_url : "https://shorturl.at/0XChk",
-    twitter_url : "https://rb.gy/jhjs11",
-    github_url : "https://github.com/mithalesh-mk"
+    linkedin_url : "https://www.linkedin.com/in/shashank-shekhar-088828221/",
+    twitter_url : "https://x.com/SHEKARSHASHANk0?t=H9NzLO4UVzicF6lfG5-DEw&s=09",
+    github_url : "https://github.com/shekhar-shashank11"
   }
 
     const [activeLink, setActiveLink] = useState('home');

@@ -19,8 +19,8 @@ function MyTabs() {
           imgUrl: projImg2,
         },
         {
-          title: "Library Management System",
-          description: "Movie ticket booking app using ReactJS, ExpressJS, NodeJS, MongoDB",
+          title: "LINK-UP",
+          description: "Social Media Website using ReactJS, ExpressJS, NodeJS, MongoDB",
           imgUrl: projImg3,
         },
         
